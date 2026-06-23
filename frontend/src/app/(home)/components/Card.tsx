@@ -24,7 +24,7 @@ const Card=({notes}:{notes:Note[]})=>{
             alt={note.title}
             width={400}
             height={200}
-            unoptimized 
+            unoptimized
           />
            
             <div className="px-6 py-4">
